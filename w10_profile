@@ -1,0 +1,54 @@
+{
+	"explorer.confirmDelete": false,
+	"editor.formatOnSave": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"editor.renameOnType": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[php]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[python]": {
+		"diffEditor.ignoreTrimWhitespace": false,
+		"editor.formatOnType": true,
+		"editor.defaultFormatter": "ms-python.autopep8",
+		"editor.wordBasedSuggestions": false
+	},
+	"workbench.iconTheme": "material-icon-theme",
+	"emmet.includeLanguages": {
+		"ruby": "html",
+		"erb": "html"
+	},
+	"files.associations": {
+		"*.erb": "erb"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"liveServer.settings.donotVerifyTags": true,
+	"files.saveConflictResolution": "overwriteFileOnDisk",
+	"workbench.colorTheme": "Monokai",
+	"git.enableSmartCommit": true,
+	"prettier.useTabs": true,
+	"prettier.endOfLine": "auto",
+	"prettier.htmlWhitespaceSensitivity": "strict",
+	"explorer.confirmDragAndDrop": false,
+	"files.trimTrailingWhitespace": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"html.format.indentInnerHtml": true,
+	"html.format.templating": true,
+	"javascript.preferences.quoteStyle": "single",
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"diffEditor.ignoreTrimWhitespace": false,
+	"files.insertFinalNewline": true,
+	"git.terminalGitEditor": true,
+	"terminal.integrated.profiles.windows": {
+		"Git Bash": { "path": "E:\\programme\\Git\\bin\\bash.exe" }
+	},
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"git.confirmSync": false,
+	"git.autofetch": true
+}
